@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d834661.chunk.css",
+    "main.js": "/static/js/main.cdaafb44.chunk.js",
+    "main.js.map": "/static/js/main.cdaafb44.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0ca45eef.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0ca45eef.js.map",
+    "static/js/2.f2cb732f.chunk.js": "/static/js/2.f2cb732f.chunk.js",
+    "static/js/2.f2cb732f.chunk.js.map": "/static/js/2.f2cb732f.chunk.js.map",
+    "static/js/3.e1e14fa8.chunk.js": "/static/js/3.e1e14fa8.chunk.js",
+    "static/js/3.e1e14fa8.chunk.js.map": "/static/js/3.e1e14fa8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1d834661.chunk.css.map": "/static/css/main.1d834661.chunk.css.map",
+    "static/js/2.f2cb732f.chunk.js.LICENSE.txt": "/static/js/2.f2cb732f.chunk.js.LICENSE.txt",
+    "static/media/IPEIM.2c644b0d.jpg": "/static/media/IPEIM.2c644b0d.jpg",
+    "static/media/IT_background.6ce83e2d.jpg": "/static/media/IT_background.6ce83e2d.jpg",
+    "static/media/Logo_ENICarthage.a873a8c7.jpg": "/static/media/Logo_ENICarthage.a873a8c7.jpg",
+    "static/media/devC.76891ef6.jpg": "/static/media/devC.76891ef6.jpg",
+    "static/media/keil.973b244e.png": "/static/media/keil.973b244e.png",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/my_pic.dc4c337c.JPG": "/static/media/my_pic.dc4c337c.JPG",
+    "static/media/sagemcom.818cb83b.JPG": "/static/media/sagemcom.818cb83b.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ca45eef.js",
+    "static/js/2.f2cb732f.chunk.js",
+    "static/css/main.1d834661.chunk.css",
+    "static/js/main.cdaafb44.chunk.js"
+  ]
+}
